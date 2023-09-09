@@ -45,9 +45,19 @@ Here are some key requirements:
 - Project Timeline
 - Backup and Disaster Recovery
 
+## Technologies Used
+
+List the main technologies, libraries, and frameworks used in your project.
+
+- MongoDB
+- Express.js
+- React
+- Node.js
+- Other technologies...
+
 ## Getting Started
 
-Explain how to get started with your project. Include any setup steps or prerequisites that users need to follow.
+Provide detailed instructions on how to set up and run your project locally. Include any prerequisites and installation steps.
 
 ### Prerequisites
 
